@@ -97,3 +97,4 @@ mspaint.exe
 mspaint.exe
 mspaint.exe
 mspaint.exe
+/quit
